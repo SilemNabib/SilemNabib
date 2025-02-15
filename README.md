@@ -1,6 +1,12 @@
 ###
+<p align="center">
+    <a href="https://anuraghazra.github.io">
+        <img width="80%" alt="Hello, I'm Silem. I craft my reality through code!" src="./assets/header-banner.png" />
+    </a>
+    <h1 align="center">A Software Engineer Intern</h1>
+</p>
 
-<h1 align="center">A Software Engineer Intern</h1>
+<br />
 
 ###
 <picture>
